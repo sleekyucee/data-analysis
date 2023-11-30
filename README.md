@@ -31,5 +31,8 @@ To explore each project, follow these steps:
 1. Open the respective notebook in the `notebooks/` directory using Jupyter Notebook or Jupyter Lab.
 2. View the presentation slides in the `slides/` directory for a high-level overview of each analysis.
 
+## Contributors
+- Amua, Uchechukwu Roseline
+
 Feel free to explore, contribute, and use the insights gained from these data analysis projects!
 
